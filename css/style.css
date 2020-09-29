@@ -139,7 +139,7 @@ img{
     0 8px 16px rgba(0, 0, 0, 0.07),
     0 16px 32px rgba(0, 0, 0, 0.07),
     0 32px 64px rgba(0, 0, 0, 0.07);
-    border-radiuswidthrem;
+    border-radius:width rem;
     position: relative;
     margin-top: 0.5rem;
     transition: all 1s linear;
